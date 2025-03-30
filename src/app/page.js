@@ -162,7 +162,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
             <a
-              href="https://github.com/yourusername/zen-posture/releases/latest"
+              href="https://drive.google.com/file/d/1y2bsH9L0Sj9X17f1adIzASqRWjyVns0z/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-white text-blue-700 px-6 py-3 rounded-lg font-medium hover:bg-gray-100 transition-colors"
@@ -173,8 +173,9 @@ export default function Home() {
               Download for Windows
             </a>
             <a
-              href="/Zen Posture-1.0.0-arm64.dmg"
-              download
+              href="https://drive.google.com/file/d/1pdgAUBg883VM1O7FwRD1-gqJqDqQBmv7/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-white text-blue-700 px-6 py-3 rounded-lg font-medium hover:bg-gray-100 transition-colors"
             >
               <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
