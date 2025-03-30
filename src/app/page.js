@@ -44,7 +44,7 @@ export default function Home() {
                 Download Now
               </a>
               <a
-                href="https://github.com/yourusername/zen-posture"
+                href="https://github.com/ryankamiri/ZenPosture"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 border border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg font-medium text-center transition-colors"
